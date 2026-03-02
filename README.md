@@ -18,10 +18,10 @@ View [Python's 3.14.3 documentation](https://docs.python.org/3/).
 
 Every week consists of in-class coding exercises related to topics discussed during lecture.
 
-Zybooks consists of various exercises applying Python concepts, with notable exercises kept in this repo.
+Zybooks consists of various exercises applying Python concepts, with notable exercises kept in this repo and organized by relative time commitment to completing.
 
 ```
 cs2520/
 ├── activities/     # In-class activities by week
-└── zybooks/        # Selected ZyBooks exercises
+└── zybooks/        # Selected ZyBooks exercises by effort
 ```
